@@ -1,0 +1,47 @@
+body {
+ color: brown;
+  background-color: bisque;
+  font-family: "New Amsterdam", sans-serif;
+}
+
+header {
+  border: solid 2px rgb(0, 0, 0);
+  padding: 10px;
+  font-size: 30px;
+}
+
+.adccteste {
+  background: rgb(32, 117, 215);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.Campeonato ADCC jiu-jitsu{
+  margin-right: 5%;
+}
+
+div {
+  margin-right: 20px;
+}
+
+.fila-101 {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.label {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
